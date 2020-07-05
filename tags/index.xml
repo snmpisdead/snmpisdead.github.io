@@ -1,15 +1,24 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
- <channel>
-   <title>Tags on SNMP is Dead</title>
-   <link>http://example.org/tags/</link>
-   <description>Recent content in Tags on SNMP is Dead</description>
-   <generator>Hugo -- gohugo.io</generator>
-   <language>en-us</language>
-   <copyright>&amp;copy; 2020 Halliday Software Inc.</copyright>
-   
-       <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-   
-   
- </channel>
+  <channel>
+    <title>Tags on SNMP is Dead</title>
+    <link>https://www.snmpisdead.com/tags/</link>
+    <description>Recent content in Tags on SNMP is Dead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 May 2020 15:29:55 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.snmpisdead.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello</title>
+      <link>https://www.snmpisdead.com/tags/hello/</link>
+      <pubDate>Fri, 08 May 2020 15:29:55 -0400</pubDate>
+      
+      <guid>https://www.snmpisdead.com/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
